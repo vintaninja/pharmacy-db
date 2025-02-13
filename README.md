@@ -3,6 +3,9 @@
 - User login data saved in both localStorage and M0 MongoDB cluster.
 - Managed database using MongoDB Compass
 - Tested API using ReqBin
+To-do
+- Integrate testing with Selenium or equivalent technology
+- Deploy to AWS for live demo link
 
 ![image](https://github.com/user-attachments/assets/f85ae5b9-fe24-4eeb-a310-834e791e0fa5)
 ![image](https://github.com/user-attachments/assets/0ea39bc6-2136-48ab-a48b-d0a37777e21e)
