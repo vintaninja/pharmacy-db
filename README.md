@@ -2,9 +2,10 @@
 - MERN stack project: Pharmacy Database proof of concept.
 - User login data saved in both localStorage and M0 MongoDB cluster.
 - Managed database using MongoDB Compass
-- Tested API using ReqBin
-To-do
-- Integrate testing with Selenium or equivalent technology
+- Tested API using ReqBin <br/>
+### To-do
+- Add inventory display sorting function
+- Testing with Selenium or equivalent technology
 - Deploy to AWS for live demo link
 
 ![image](https://github.com/user-attachments/assets/f85ae5b9-fe24-4eeb-a310-834e791e0fa5)
